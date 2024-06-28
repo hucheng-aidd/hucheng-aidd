@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hucheng-aidd
-- 👀 I’m interested in Application of AI in drug designs
+- 👀 I’m interested in Application of AI in drug designs. My current top insterest projects are: 1. design of gut-restricted drugs for Inflammatory Bowel Disease and Colorectal Cancer. 2. Design of novel CNS penetrant drugs (EGFR, KRAS)
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on AI Drug Designs
 - 📫 How to reach me hucheng.aidd@gmail.com
